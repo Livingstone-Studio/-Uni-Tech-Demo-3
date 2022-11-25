@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da15b17ce094fc640a0df70d8a48ed92, type: 3}
+  m_Name: Evasion
+  m_EditorClassIdentifier: 
+  title: Evasion
+  desc: Dodge chance increase of 50%
+  timeDur: 15
+  buffImage: {fileID: 21300000, guid: d635d7dfe26fa5643b0aa1ecc3c73251, type: 3}
+  buffType: 0
+  affectSpriteTranspancey: 1
+  affectAttackRate: 0
+  affectMovementRate: 0
+  affectResourceRate: 0
+  newRate: 1
+  newRate2: 1
+  affectResourceAmount: 0
+  newResourceMax: 0
